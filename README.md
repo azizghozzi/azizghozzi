@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Aziz Ghozzi<br><br>💻 Full Stack Developer at Earnst & Young<br><br>📧 How to reach me **azizghozzi1@gmail.com** or **(https://azizghozzi.com)**<br><br>
+Hi 👋, I'm Aziz Ghozzi<br><br>💻 Full Stack Developer at Earnst & Young<br><br>📧 How to reach me **azizghozzi1@gmail.com** or ** https://azizghozzi.com **<br><br>
 
 
 ## 🌐 Socials:
